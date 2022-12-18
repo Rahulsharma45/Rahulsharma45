@@ -17,7 +17,7 @@ class KSK():
         self.language = ['हिंदी', 'English', 'Punjabi']
     def programming_languages(self):
         return [
-            'Python', 'SQL'
+            'Python', 'HTML'
         ]
     def markup_languages(self):
         return [
