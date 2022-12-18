@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi 👋, I'm 𝙆𝙎𝙆 </h3>
+<h3 align="center">Hi 👋,</h3>
 
 <p align="center">
   <a href="https://t.me/EVERYONExKSK"><img src="http://readme-typing-svg.herokuapp.com?color=e90001&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India.">
