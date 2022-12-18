@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋,</h3>
 
 <p align="center">
-  <a href="https://t.me/EVERYONExKSK"><img src="http://readme-typing-svg.herokuapp.com?color=e90001&center=true&vCenter=true&width=1000&lines=A+Noob+Coder+From+India.">
+  <a href="https://t.me/EVERYONExKSK"><img src="http://readme-typing-svg.herokuapp.com?color=e90001&width=1000&lines=A+Noob+Coder+From+India.">
 </p>
 
 <p align="center"> <a href="https://t.me/EVERYONExKSK"><img src="https://te.legra.ph/file/1f7e2e488a679eb8fac54.jpg" alt="Hiro"></a>
